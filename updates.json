@@ -2,9 +2,11 @@
     "addons": {
         "cr-subtitle-grabber@pizza.man": {
             "updates": [
+                {
                 "version": "0.1.0",
                 "update_link": "https://github.com/pizza-yute/c1acc1f3-e4c4-4b1d-8b5c-1553a1057717/releases/latest/download/cr_subtitle_grabber.xpi",
                 "update_hash": "sha256:14027fadba27dfeea3caf50348315d2feb48fac47b6f7f811299b7084bddd6f6"
+                }
             ]
         }
     }
